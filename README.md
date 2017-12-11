@@ -7,15 +7,23 @@ npm install -g starz
 
 Usage
 ```
-$ starz yyx990803 -l 5
+$ starz harrypotter0 -l 15
 
-Total: 1131
-
-HTML5-Clear       ★  617
-HTML5-Clear-v2    ★  304
-pod               ★  63
-Speech.js         ★  33
-creative-html5    ★  26
+Total: 23
+awesome-algorithms          ★  5
+CODEFORCES                  ★  2
+TopCoder_Solutions          ★  2
+CodersZone                  ★  2
+Hack-bvp-Track-the-load     ★  2
+Niec-Hack-Earthquake-City   ★  2
+awesome-data-science        ★  1
+twitter-bot                 ★  1
+webapp                      ★  1
+Coding_Tutorials            ★  1
+college-projects            ★  1
+angularRestaurantApp        ★  1
+tensorflow                  ★  1
+Pythonista                  ★  1
 ```
 
 Options
