@@ -7,25 +7,29 @@ npm install -g starz
 
 Usage
 ```
-$ starz harrypotter0 -l 15
+$ starz harrypotter0 -l 18
 
-Total: 26
+Total: 31
 
-algorithms-in-python              ★  5
-CodersZone                        ★  2
+algorithms-in-python              ★  7
+CODEFORCES                        ★  3
 awesome-competitive-programming   ★  2
-CODEFORCES                        ★  2
+CodersZone                        ★  2
 TopCoder_Solutions                ★  2
 Hack-bvp-Track-the-load           ★  2
 Niec-Hack-Earthquake-City         ★  2
-webapp                            ★  1
-tensorflow                        ★  1
 Coding_Tutorials                  ★  1
+tensorflow                        ★  1
+angularRestaurantApp              ★  1
 college-projects                  ★  1
+data-analysis-python              ★  1
 data-science-projects             ★  1
 github-stars                      ★  1
-angularRestaurantApp              ★  1
 twitter-bot                       ★  1
+Halite2AI                         ★  1
+webapp                            ★  1
+Python-web-development            ★  1
+
 
 ```
 
